@@ -1,8 +1,9 @@
 Screen Shots
 
 
-![Structure](https://github.com/user-attachments/assets/dccd1e72-5fdb-44bd-8329-e8508a5d0ccb)
-![Home page](https://github.com/user-attachments/assets/c04e4893-92a4-475b-96b0-0f8685b2afab)
-![Spam](https://github.com/user-attachments/assets/6d3dba69-07e7-4f0c-9d16-15dec4273c5b)
-![Not Spam](https://github.com/user-attachments/assets/ee449f8e-3bca-4029-9a13-eb68b0361e6a)
 
+
+![Spam](https://github.com/user-attachments/assets/43ee66b2-69ee-451b-a5be-9796c187152a)
+![Folder Structure](https://github.com/user-attachments/assets/8fd68694-7065-48bc-a9e3-63a75549dbd2)
+![not spam](https://github.com/user-attachments/assets/acd6c8a7-52e3-46a6-9e0f-0e19106a1658)
+![Home](https://github.com/user-attachments/assets/790ec8b4-4d83-4495-acca-6468f7c19e99)
